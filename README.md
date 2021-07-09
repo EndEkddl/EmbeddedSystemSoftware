@@ -1,5 +1,5 @@
 # EmbeddedSystemSoftware  
-## PROJ1 : Clock, Counter, Text editor, Draw board  
+### PROJ1 : Clock, Counter, Text editor, Draw board  
 
 실행 파일 이름 : 20181593  
   
