@@ -7,8 +7,8 @@
 &#10004; make clean : 실행 파일과 .o 코드를 지움  
 &#10004; make push : host의 파일을 board로 전송  
   
-&#128154;  실행 화면  
-<img width="321" alt="proj1" src="https://user-images.githubusercontent.com/78426705/125082966-c965ac80-e102-11eb-9521-36f8c00c496c.PNG">  
+&#128154;  FLOW CHART  
+<img width="350" alt="proj1" src="https://user-images.githubusercontent.com/78426705/125082966-c965ac80-e102-11eb-9521-36f8c00c496c.PNG">  
  
    ---------------------------------------------
 ### PROJ2 : Timer device driver module with ioctl
