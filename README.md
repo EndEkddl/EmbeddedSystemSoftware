@@ -43,4 +43,4 @@
 &#10004; make push : transfer files from the host to the board.    
  
 &#128154;  실행 화면   
-<img width="700" alt="proj4" src="https://user-images.githubusercontent.com/78426705/125086887-03d14880-e107-11eb-8d07-c934d3a3759a.PNG">
+<img width="800" alt="proj4" src="https://user-images.githubusercontent.com/78426705/125086887-03d14880-e107-11eb-8d07-c934d3a3759a.PNG">
