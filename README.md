@@ -34,7 +34,8 @@
 <img width="424" alt="proj3" src="https://user-images.githubusercontent.com/78426705/125085497-9a9d0580-e105-11eb-97a4-3fd83f7d055f.PNG">
 
  ---------------------------------------------
-### PROJ4(FINAL PROJECT) : Free project - Bulls and Cows(숫자야구) with module programming, system call, Android programming and JNI
+### PROJ4(FINAL PROJECT) : Free project - Bulls and Cows(숫자야구)   
+###with module programming, system call, Android programming and JNI
 
 &#10004; MAJOR_NUMBER : 242  
 &#10004; DEVICE_NAME : /dev/BullsAndCows     
