@@ -1,4 +1,4 @@
-# EmbeddedSystemSoftware  
+# EmbeddedSystemSoftware(CSE4116)  
 ---------------------------------------------
 ### PROJ1 : Clock, Counter, Text editor, Draw board  
 
